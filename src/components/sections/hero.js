@@ -61,11 +61,11 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Atul Sharma.</h2>;
+  const two = <h2 className="big-heading">Bouchemel Nasreddine.</h2>;
   const three = <h3 className="big-heading">I build products that people will use</h3>;
   const four = (
     <p>
-      I'm a growing Software Engineer, who specializes in building Android applications for best
+      I'm a growing Software Engineer, who specializes in building mobile/web applications for best
       digital experiences.<br/>
       Focused on building impactful products which can create values in people lives.<br/>
       Currently looking of opportunities to learn and available for hire.

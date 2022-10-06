@@ -1,22 +1,22 @@
 module.exports = {
-  email: '2012atulsharma@gmail.com',
+  email: 'bouchemelnasreddine@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/Iltwats',
+      url: 'https://github.com/Bouchemel-Nasreddine',
     },
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/atulsharma_01',
     },
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/Iltwats_atul',
+      name: 'Phone',
+      url: 'tel:+213550743933',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/1220atul',
+      url: 'https://www.linkedin.com/in/n-bl/',
     },
 
   ],
@@ -37,10 +37,6 @@ module.exports = {
     {
       name: 'Contact',
       url: '/#contact',
-    },
-    {
-      name: 'Blogs',
-      url: 'https://2012atulsharma.medium.com',
     },
   ],
 

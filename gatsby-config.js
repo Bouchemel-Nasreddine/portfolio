@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Atul Sharma',
+    title: 'Bouchemel Nasreddine',
     description:
-      'Atul Sharma is an software engineer specializes in mobile app development to create exceptional digital experiences and is always excited to build something interesting.',
+      'Bouchemel Nasreddine is an software engineer specializes in web/mobile app development to create exceptional digital experiences and is always excited to build something interesting.',
     siteUrl: 'https://iltwats.github.io/', // No trailing slash allowed! Add your real domain later
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Iltwats_Atul',

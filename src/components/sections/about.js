@@ -126,16 +126,19 @@ const About = () => {
   }, []);
 
   const skills = [
+    'Flutter',
     'Java',
     'Kotlin',
+    'Hybride Development',
     'Android Development',
     'Firebase',
     'MySQL',
-    'Golang',
+    'MongoDB',
     'HTML & CSS',
     'JavaScript',
     'Node.js',
-    'C++'
+    'React',
+    'Python'
   ];
 
   return (
@@ -146,16 +149,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello, I am a Software Engineer with 1+ years of experience who loves solving real-world complex problems.
-              Worked on different technologies for developing various solutions on the web, command line, and android to bring the best digital experiences to the user.
+              Hello, I am a Mobile/Web developer with 1+ years of experience who loves solving real-world complex problems.
+              Worked on different technologies for developing various solutions on both web and mobile to bring the best digital experiences to the user.
             </p>
             <p>
               I enjoy working on projects in a team full of excited people who wants to learn and
               grow like me and In order to keep learning new things, I am always looking for projects and opportunities that will help me learn and upskill better.
             </p>
             <p>
-              Also, I document my developer journey and learnings on Medium (with 10,000+ monthly
-              readers) to help new developers in their journey.
+              I also worked as UI/UX designer on many mobile projects, wich allowed me to learn how to concept interfaces, and optimize the experience for both the user and the developer.
             </p>
             <p>Here are a few technologies I've worked and been working with recently:</p>
           </div>
@@ -169,7 +171,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.png"
               width={1024}
               quality={100}
               formats={['AUTO', 'WEBP', 'AVIF']}
