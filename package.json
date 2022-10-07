@@ -3,7 +3,6 @@
     "description": "Personal Portfolio",
     "version": "2.0.1",
     "author": "Atul Sharma <2012atulsharma@gmail.com>",
-    "homepage": "https://iltwats.github.io/",
     "repository": {
         "type": "git",
         "url": "https://github.com/Iltwats/iltwats.github.io"
