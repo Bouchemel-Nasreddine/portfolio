@@ -1,11 +1,12 @@
 {
     "name": "i2",
-    "description": "Personal Portfolio",
+    "description": "Portfolio",
     "version": "2.0.1",
-    "author": "Atul Sharma <2012atulsharma@gmail.com>",
+    "author": "Bouchemel Nasreddine",
+    "homepage": "https://n-bouchemel.engineer/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Iltwats/iltwats.github.io"
+        "url": "https://github.com/Bouchemel-Nasreddine/portfolio"
     },
     "keywords": [
         "gatsby"
