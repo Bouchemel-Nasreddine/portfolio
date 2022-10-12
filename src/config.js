@@ -7,8 +7,8 @@ module.exports = {
       url: 'https://github.com/Bouchemel-Nasreddine',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/atulsharma_01',
+      name: 'Mail',
+      url: 'mailto:bouchemelnasreddine@gmail.com',
     },
     {
       name: 'Phone',

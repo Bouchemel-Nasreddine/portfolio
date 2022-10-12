@@ -4164,9 +4164,9 @@ var plugins = [{
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-manifest/gatsby-ssr */ "./node_modules/gatsby-plugin-manifest/gatsby-ssr.js"),
   options: {
     "plugins": [],
-    "name": "Atul Sharma",
-    "short_name": "AtulSharma",
-    "start_url": "https://iltwats.github.io/",
+    "name": "Bouchemel Nasreddine",
+    "short_name": "Nasro",
+    "start_url": "https://n-bouchemel.engineer/",
     "background_color": "#020c1b",
     "theme_color": "#0a192f",
     "display": "minimal-ui",

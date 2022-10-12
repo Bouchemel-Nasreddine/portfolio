@@ -5,9 +5,10 @@ module.exports = {
     title: 'Bouchemel Nasreddine',
     description:
       'Bouchemel Nasreddine is an software engineer specializes in web/mobile app development to create exceptional digital experiences and is always excited to build something interesting.',
-    siteUrl: 'https://iltwats.github.io/', // No trailing slash allowed! Add your real domain later
+    siteUrl: 'https://n-bouchemel.engineer', // No trailing slash allowed! Add your real domain later
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@Iltwats_Atul',
+    twitterUsername: '@nasro_bl',
+  
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,9 +21,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Atul Sharma',
-        short_name: 'AtulSharma',
-        start_url: 'https://iltwats.github.io/',
+        name: 'Bouchemel Nasreddine',
+        short_name: 'Nasro',
+        start_url: 'https://n-bouchemel.engineer/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
